@@ -7,6 +7,9 @@ To analyze whether patients with **diabetes** are more or less likely to **miss 
 ## Dataset Used
 -<a href="https://github.com/VidyavaVidyavati/Medical-Appointments-No-shows-Analysis/blob/main/Raw%20data.xlsx">Dataset</a>
 
+## Tool Used
+Microsoft Excel 
+
 ## 🧹Data Cleaning Summary
 
 ### ✅ Performed Cleaning Tasks:
